@@ -1,0 +1,2 @@
+# ssd
+soft skill developement
